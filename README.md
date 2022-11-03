@@ -2,11 +2,12 @@
 **json-qs-converter** It is a method that allows to transform a json object to a valid string to be used in a GET request.
 
 ## Install
-```$ npm install json-qs-converter```
+```npm install json-qs-converter```
 
 ## Usage
 Its use is very simple, just import the method and pass the json object as a parameter to obtain the string.
-```
+
+```javascript
 const qs = require('json-qs-converter')
 
 const obj = { group: 'category' }
