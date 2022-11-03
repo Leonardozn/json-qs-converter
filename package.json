@@ -18,5 +18,13 @@
     "into"
   ],
   "author": "Leonardo Mira P.",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Leonardozn/json-qs-converter.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Leonardozn/json-qs-converter/issues"
+  },
+  "homepage": "https://github.com/Leonardozn/json-qs-converter#readme"
 }
