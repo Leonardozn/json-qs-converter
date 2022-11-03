@@ -1,0 +1,22 @@
+{
+  "name": "json-qs-converter",
+  "version": "1.0.0",
+  "description": "Convert a json to a string for use in a GET request.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "json",
+    "querystring",
+    "converter",
+    "query",
+    "url",
+    "param",
+    "searchparams",
+    "stringify",
+    "into"
+  ],
+  "author": "Leonardo Mira P.",
+  "license": "ISC"
+}
